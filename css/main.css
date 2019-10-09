@@ -1,0 +1,126 @@
+.jumbotron {
+    position: relative;
+    background-image: url(../images/jumbobitmap.jpg);
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-bottom: 150px;
+    height: 380px;
+}
+
+.jumbotron h1 {
+    color: white !important;
+    position: relative;
+    font-size: 36px !important;
+}
+.jumbotron h1 {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.jumbotron .container>h2 {
+    color: white !important;
+    position: relative;
+    mso-fareast-font-family: inherit;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+}
+h2 {
+
+    margin-bottom: 10px;
+}
+
+.search-form .search-place {
+    float: left;
+    display: block;
+    width: 38.38412%;
+}
+
+.search-form .input-lg {
+    font-size: 16px !important;
+}
+
+.search-form .check-in {
+    float: left;
+    display: block;
+    width: 21.32451%;
+}
+
+.search-form .find {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 18.96686%;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #00aeff;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+.medium-btn{
+
+    margin-top: 20px;
+}
+
+footer {
+    /*background-image: url(extra-images/footer-bg.jpg);*/
+    padding-bottom: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.find{
+    float: left;
+    display: block;
+    margin-right: 2.35765%; 
+    width: 18.96686%;
+    border-radius: 0;
+
+}
+.input-group-addon{
+    background-color: white;
+
+}
+
+.search{
+
+    font-size: 16px !important;
+    padding-left: 40px; float: left;
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+    border-radius:0;
+    background-color: red;
+
+}
+
+footer:before{
+    opacity: 0.95;
+    background-color: #000;
+    /*z-index: -1;*/
+}
+
+.basic {
+    border: none;
+    /* float: left; */
+    width: 100%;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.0);
+    padding: 0;
+    height: inherit;
+    /* color: #888888; */
+    font-size: 18px;
+    padding: 7px 15px 10px;
+    font-family: "Ubuntu",sans-serif;
+}
+
